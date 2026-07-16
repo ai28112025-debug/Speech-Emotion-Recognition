@@ -127,7 +127,7 @@ Python, TensorFlow/Keras, librosa, scikit-learn, NumPy, Matplotlib, Tkinter
 
 ## Author
 
-Quratulain (Anie) — BS Artificial Intelligence, The Islamia University of Bahawalpur
+Quratulain — BS Artificial Intelligence, The Islamia University of Bahawalpur
 
 ## License
 
