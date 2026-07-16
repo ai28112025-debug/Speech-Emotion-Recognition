@@ -1,0 +1,24 @@
+# Virtual environment - never upload, anyone can recreate with requirements.txt
+venv/
+
+# Dataset - large, publicly downloadable from Zenodo, don't upload
+dataset/
+
+# Generated data files - large, regenerable by running prepare_dataset.py
+features.npy
+labels.npy
+
+# Trained model files - can be large; optional to include (see README note)
+# Uncomment the line below if you don't want to upload the trained model:
+# emotion_model.keras
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment/secrets (if you add any API keys later)
+.env
